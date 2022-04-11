@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>GoDirect</Id>
+	<Title>GoDirect™ Cabin Services For Defense</Title>
+  	<Subtitle>Available on Fixed wings and helicopters.</Subtitle>
+	<Description>The GoDirect airtime subscription services are available for most satellite communication hardware and provide solutions to help manage connectivity for the entire fleet. With GoDirect airtime, you can customize services to best fit your mission needs.</Description>
+	<Content>
+		<Content>
+			<Title>Hardware</Title>
+			<Body>JetWave offers high&#x2011;speed connectivity for voice and high bandwidth video and data on a variety of different fixed wing aircraft, including intelligence, surveillance and reconnaissance (ISR) platforms. 
+The Aspire 200 Satellite Communications System is Honeywell's smallest Inmarsat SwiftBroadband system enabling simultaneous voice and data connectivity at rates up to 600 kbps on both fixed wing and rotary aircraft.</Body>
+		</Content>
+		<Content>
+			<Title>Software</Title>
+			<Body>The GoDirect services can go on any hardware, by installing this software, you have capabilities to manage the hardware, services and network. With a push of a button you can view all your services. From maintenance service plans to avionics and flight support and cabin connectivity.</Body>
+		</Content>
+		<Content>
+			<Title>Network</Title>
+			<Body>Honeywell develops satellite communication products, services and software solutions that allow aircraft&#x2011;based communications services to access Inmarsat's global networks onboard all major fixed wing and rotary aircraft. Together these solutions provide a seamless and wide variety of voice and data communications for both passengers and crew.</Body>
+		</Content>
+		<Content>
+			<Title>Support</Title>
+			<Body>Direct access with the GoDirect Portal to view your subscriptions as well as new offerings that further optimize the experience. Includes inform&#x2011;and&#x2011;control tools for managing data traffic assurance, provisioning, and shaping. Backed by a 24/7 GoDirect Customer Support team accessible by phone or email and staffed by aviation professionals, dispatchers, pilots and field network technical experts. Support for your critical missions.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/COMMON_VID_PTP_001.mp4</VideoPath>
+	</Video>
+
+	<Actions>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image Gallery</Caption>
+			<ImagePaths>
+				<string>GoDirect/Go Direct Service Image.png</string>
+				<string>GoDirect/C130 image.jpg</string>
+				<string>GoDirect/UH-60 platform.jpg</string>
+				<string>GoDirect/Go Direct Connectivity Image.png</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>GoDirect/Go Direct Apps and Services.png</string>
+				<string>GoDirect/Connectivity Services Diagram.png</string>
+				<string>GoDirect/Go Direct Inmarsat Table.png</string>
+				<string>GoDirect/Go Direct Connectivity Services Table_combined.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

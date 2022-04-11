@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>TALIN™500</Id>
+	<Title>TALIN™ 500</Title>
+  	<Subtitle>In service on the CV90 and a wide range of other combat vehicles.</Subtitle>
+	<Description>TALIN 500 is a high&#x2011;accurate targeting system in service with a wide range of combat vehicles around the world. It delivers precise position information for vehicles on the battlefield in GPS&#x2011;denied environments, helping to maximize effectiveness and survivability. Its accuracy is extremely reliable regardless of terrain, and its rugged design enables on the move alignment.</Description>
+	<Content>
+		<Content>
+			<Title>Speed</Title>
+			<Body>TALIN 500 is a low&#x2011;cost targeting system that features real&#x2011;time electronic position reporting, enabling the user to move quicker than the enemy &#x2011; resulting in improved survivability.</Body>
+		</Content>
+		<Content>
+			<Title>Precise and Reliable</Title>
+			<Body>TALIN 500 enables real&#x2011;time electronic position reporting, letting the war fighter know exactly where they are in relation to the enemy. This helps to keep the user one step ahead of the enemy, maximizing effectiveness and survivability.</Body>
+		</Content>
+		<Content>
+			<Title>Highly Accurate</Title>
+			<Body>TALIN 500 features full&#x2011;inertial navigation, delivering advanced performance that is more accurate than traditional magnetic systems, without any platform limitations. With multiple communication interfaces, TALIN 500 is proven to deliver reliable and accurate navigation performance across a range of environments.</Body>
+		</Content>
+		<Content>
+			<Title>Customizable</Title>
+			<Body>TALIN 500 features state&#x2011;of&#x2011;the&#x2011;art plug and play sensors, facilitating technology upgrades and platform missionizations. It also delivers flexible tactical configurations for navigation, stabilization and target acquisition on a wide variety of military vehicles.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>TALIN500/TA50_IMG_LANC_001.JPG</ThumbnailPath>
+		<VideoPath>VideoAssets/TA50_VID_PTP_001.mp4</VideoPath>
+	</Video>
+
+<Actions>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>TALIN500/TA50_IMG_001.jpg</string>
+				<string>TALIN500/TA50_IMG_004.jpg</string>
+				<string>TALIN500/TA50_IMG_005.jpg</string>	
+				<string>TALIN500/TA50_IMG_002.jpg</string>
+				<string>TALIN500/TA50_IMG_003.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>TALIN500/TALIN500 Image.jpg</string>
+				<string>TALIN500/TALIN500 Specifications.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

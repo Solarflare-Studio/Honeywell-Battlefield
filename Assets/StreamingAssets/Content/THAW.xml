@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>THAW</Id>
+	<Title>T-Hawk™</Title>
+  <Subtitle></Subtitle>
+	<Description>T-Hawk is an unmanned micro air vehicle that provides real&#x2011;time situational awareness in critical situations. It is battle&#x2011;proven since 2007 and features advanced surveillance technology to enable informed decision&#x2011;making. It is incredibly simple to set up and deploy and makes tracking threats easy, improving survivability on the battlefield.</Description>
+	<Content>
+		<Content>
+			<Title>Control.</Title>
+			<Body>T&#x2011;Hawk delivers real&#x2011;time command and control feedback that is essential for mission success. It has an impressive 3&#x2011;6 mile (5&#x2011;10&#160;km) range with common military unmanned aerial vehicle (UAV) frequencies, and can store 240 minutes of sensor imagery and 10 pre&#x2011;planned flight plans in a ground station. It also features adaptable flight planning, allowing up to 100 waypoints per flight plan.</Body>
+		</Content>
+		<Content>
+			<Title>Simple.</Title>
+			<Body>T&#x2011;Hawk is quick to assemble and deploy, and can be airborne within 10 minutes. Its robust and lightweight design gives it a dry weight of 17.5lbs (7.9kg), allowing it to be carried in a backpack. It features vertical takeoff and landing, enabling hover&#x2011;and&#x2011;stare mission profiles, and can even be deployed and operated from an armored vehicle. It is simple and intuitive to control and requires minimal operator training. An electronic control unit provides increased vehicle efficiency through fuel injection, allowing for an endurance time of up to 50 minutes. It is also able to climb at a rate of 25 feet per second up to 10,000 feet and can reach speeds of up to 46 miles (40 knots) per hour.</Body>
+		</Content>
+		<Content>
+			<Title>Flexible.</Title>
+			<Body>T&#x2011;Hawk provides aerial intelligence to ensure the safety and security of people, borders and perimeters. It supports a broad range of missions and has hover&#x2011;and&#x2011;stare and follow&#x2011;and&#x2011;zoom capabilities. The gimbaled camera records in color and infrared, allowing it to identify hazards and help to protect convoys. It features interchangeable payload pods with day and night cameras and user selectable data links, making it a fully operational 24&#x2011;7 system. It is proficient in most weather conditions - including salt, sand, dust and fog - and also features disaster surveillance and damage assessment.</Body>
+		</Content>		
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>THAW/THAW_IMG_LANC_001.JPG</ThumbnailPath>
+		<VideoPath>VideoAssets/THAW_VID_PTP_001.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Hear it from the veterans</Caption>
+			<VideoPath>VideoAssets/THAW_VID_001_TH_FULL_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="VideoAction">
+			<Caption>True Stories</Caption>
+			<VideoPath>VideoAssets/THAW_VID_002_TH_TS_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>THAW/THAW_IMG_001.jpg</string>
+				<string>THAW/THAW_IMG_002.jpg</string>
+				<string>THAW/THAW_IMG_003.jpg</string>
+				<string>THAW/THAW_IMG_004.jpg</string>
+				<string>THAW/THAW_IMG_005.jpg</string>
+				<string>THAW/THAW_IMG_006.jpg</string>
+				<string>THAW/THAW_IMG_007.jpg</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

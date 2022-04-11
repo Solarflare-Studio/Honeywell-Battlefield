@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e923fe187755e6147ad42d6ea2dffa27
+timeCreated: 1498055272
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Honeywell Cond
+  fontNames:
+  - Honeywell Cond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3a5250da2b1e81e43834c43218c0b93d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

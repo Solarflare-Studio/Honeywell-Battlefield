@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>Jetwave</Id>
+	<Title>JetWave™</Title>
+  	<Subtitle>In service on C&#x2011;130 but available on a variety of platforms including the C&#x2011;17 Globemaster.</Subtitle>
+	<Description>JetWave offers high&#x2011;speed connectivity for voice and high bandwidth video and data on a variety of different aircraft, including intelligence, surveillance and reconnaissance (ISR) platforms. It creates a secure network to ensure that missions are connected anywhere in the world.</Description>
+	<Content>
+		<Content>
+			<Title>Flexible Connectivity</Title>
+			<Body>JetWave is a military Ka&#x2011;band satellite terminal, providing access to high&#x2011;speed broadband connections for military customers utilizing the Inmarsat GX network. Designed to give users the ultimate flexibility and connectivity, the system offers access to commercial global service beams (GSB) and high capacity military (HCM) spot beams, without the need to reconfigure the system, swap networks or change providers. JetWave also enables military users to communicate mission&#x2011;critical information from around the world to ground bases, including high bandwidth data, positioning, and aircraft status reports.</Body>
+		</Content>
+		<Content>
+			<Title>A Global Network</Title>
+			<Body>JetWave provides a reliable high&#x2011;speed connection for high bandwidth missions, enabling voice, video and data information to be shared in real&#x2011;time. The system is optimized for use with Inmarsat’s new Ka&#x2011;band I5 Global Express (GX) network, creating a truly global high&#x2011;speed network.</Body>
+		</Content>
+		<Content>
+			<Title>Secure Missions</Title>
+			<Body>JetWave allows military information to be shared over a secure network in real&#x2011;time. It ensures global access and connectivity for high bandwidth missions, with uniform performance from a single network and satellite operator.</Body>
+		</Content>
+		<Content>
+			<Title>Stay Connected</Title>
+			<Body>JetWave is a dual&#x2011;axis mechanical system, positioned with no scan loss for constant gain regardless of azimuth or elevation angle. Its four Line Replaceable Unit (LRU) integrated system supports either ARINC 429 or autonomous navigation modes, making its application extremely flexible &#x2011; enabling secure communications between land, sea and air.</Body>
+		</Content>
+		<Content>
+			<Title>GoDirect Cabin Services For Defense</Title>
+			<Body>Honeywell GoDirect Services has the satellite communications solutions to get your aircraft connected and mission overview within minutes. Honeywell’s satellite communications hardware and software upgrades deliver enhanced capabilities and unparalleled global coverage across a variety of network services time solutions. GoDirect Services working together for connected missions.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/Introducing JetWave for Military and Government Operators  Aviation  Honeywell Aviation - YouTube.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Hear it from the veterans</Caption>
+			<VideoPath>VideoAssets/JEWA_VID_001_TH_FULL_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="VideoAction">
+			<Caption>True Stories</Caption>
+			<VideoPath>VideoAssets/JEWA_VID_002_TH_TS_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>Jetwave/JEWA_IMG_001.jpg</string>
+				<string>Jetwave/JEWA_IMG_002.jpg</string>
+				<string>Jetwave/JEWA_IMG_003.jpg</string>
+				<string>Jetwave/JEWA_IMG_004.jpg</string>
+				<string>Jetwave/JEWA_IMG_006.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>Jetwave/Jetwave Key Features.png</string>
+				<string>Jetwave/Jetwave System Description_Specifications.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>PENA</Id>
+	<Title>Personal Navigation</Title>
+  	<Subtitle>For soldiers in GPS&#x2011;denied environments.</Subtitle>
+	<Description>Personal Navigation delivers precise position information in GPS&#x2011;denied environments. Its state&#x2011;of&#x2011;the&#x2011;art technology and compact design make it extremely portable in even the most challenging environments.</Description>
+	<Content>
+		<Content>
+			<Title>Accurate Positioning.</Title>
+			<Body>Personal Navigation is an accurate position monitoring system to ensure the whereabouts of soldiers on the battlefield in GPS&#x2011;denied locations. Using state&#x2011;of&#x2011;the&#x2011;art sensors and software, it provides accurate position information for first responders, soldiers and other people on foot, enabling informed decision&#x2011;making.</Body>
+		</Content>
+		<Content>
+			<Title>Lightweight.</Title>
+			<Body>Personal Navigation is a small, lightweight unit that can easily be carried by soldiers on the battlefield. Its rugged design and packaging will withstand the most challenging military environments, making it incredibly accurate regardless of terrain and location.</Body>
+		</Content>
+		<Content>
+			<Title>Stay Informed.</Title>
+			<Body>Personal Navigation provides high accuracy positioning in GPS&#x2011;denied environments, allowing for informed decision&#x2011;making during missions. It also has the ability to update positioning information when GPS becomes available, ensuring that it is always as accurate as possible.</Body>
+		</Content>
+		<Content>
+			<Title>Go Anywhere.</Title>
+			<Body>Personal Navigation is able to determine the war fighter’s location in even the toughest battlefield conditions. It provides location information in scenarios with intermittent or no GPS signal, and is suitable for operation in all kinds of environments, including urban areas, rugged terrain, forests, high signal interference environments and indoors.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/COMMON_VID_PTP_001.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Hear it from the veterans</Caption>
+			<VideoPath>VideoAssets/PENA_VID_001_TH_FULL_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>PENA/PENA_IMG_001.jpg</string>
+				<string>PENA/PENA_IMG_002.jpg</string>
+				<string>PENA/PENA_IMG_003.jpg</string>
+				<string>PENA/PENA_IMG_004.jpg</string>
+				<string>PENA/PENA_IMG_005.jpg</string>
+				<string>PENA/PENA_IMG_006.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>PENA/PENA Systems Characteristics.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

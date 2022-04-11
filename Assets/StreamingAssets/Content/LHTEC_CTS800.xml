@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>LHTEC</Id>
+	<Title>CTS800 Engine</Title>
+  	<Subtitle>In service on a wide range of helicopters.</Subtitle>
+	<Description>LHTEC is an existing 50:50 general Partnership between Honeywell and Rolls Royce.   The Partnership was formed to facilitate the development, production and support of the propulsion engine for the US Army Comanche helicopter program.  The Comanche program was terminated in 2004 and LHTEC Settled with the U.S. Army and owns all T800 intellectual property. LHTEC finalized the development of the CTS800 engine and has received orders for 500+ commercial variants of the engine. The CTS800 engine is integrated on six platforms (Super Lynx 300, AW159 Wildcat, X2, T129 and the new Turkish Light Utility Helicopter - TLUH), accumulated +300.000 flight hours, and services over a dozen defense ministries.</Description>
+	<Content>
+		<Content>
+			<Title>Low maintenance</Title>
+			<Body>The modular design of the engine enables maintenance to be completed quickly and easily. Amazingly only six tools are required to perform all CTS800 O&#x2011;level maintenance. This modular design combined with the on&#x2011;condition maintenance philosophy provides a low direct maintenance cost as well as low operating costs per flying hour and significantly reduces the through&#x2011;life maintenance cost of the engine.</Body>
+		</Content>
+		<Content>
+			<Title>Power</Title>
+			<Body>In September 2010, the X2 broke the rotorcraft world speed record. The engine makes it possible to carry more, fly higher even on hot days, and consume less fuel. It’s proven in service since 2004 with over 300,000 flight hours. The CTS800 lead the fleet engines having accumulated over 2,500 hours in service, of which over 1,700 was in a dusty desert environment. The engines experienced no shop visits or significant maintenance beyond line or scheduled.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/CTS-800_main Edit_V14.mp4</VideoPath>
+	</Video>
+
+	<Actions>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image Gallery</Caption>
+			<ImagePaths>
+				<string>LHTEC/TAI_T129_ATAK_Helicopter__Pak_-_3.JPG</string>
+				<string>LHTEC/TAI_T129_ATAK_Helicopter_8.JPG</string>
+				<string>LHTEC/TAI_T129_ATAK_Helicopter_12.JPG</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>LHTEC/LHTEC Infographic.png</string>
+				<string>LHTEC/LHTEC tech spec.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>T55</Id>
+	<Title>T55 Turboshaft Engine</Title>
+  	<Subtitle>In service on the Chinook helicopter.</Subtitle>
+	<Description>The T55 L&#x2011;714A engine powers the Chinook helicopter fleet and enables military operations in some of the world’s harshest environments.</Description>
+	<Content>
+		<Content>
+			<Title>Pedigree</Title>
+			<Body>The T55&#x2011;L&#x2011;714A fleet has accumulated more than seven million hours of operation around the globe, powering helicopters in military operations in some of the world’s harshest environments. Continued investment in technology and upgrades mean that the T55&#x2011;L&#x2011;714A is powering complex missions for today’s armed forces. The Honeywell T55 engine powers the US Army’s Chinook helicopters and is in use by the UK Royal Air Force (RAF), the Royal Netherlands Air Force and other fleets worldwide. The engine has been in operation since the 1960s, and remains an integral part of military fleets worldwide. Honeywell’s commitment to technology has made the latest iteration more powerful, more reliable and more efficient than ever before, allowing fleets to cover greater distances, carry increased loads and reduce maintenance costs.</Body>
+		</Content>
+		<Content>
+			<Title>Low Maintenance</Title>
+			<Body>The Honeywell T55&#x2011;L&#x2011;714A engine upgrade offers helicopter pilots a reliable, battle&#x2011;proven engine that requires less maintenance due to a simple, rugged design created to withstand harsh environments. New materials are incorporated to increase the life and durability of the engine. In fact, the time between overhaul is increased from 2,400 hours to 3,000 hours and as a result operators benefit from enhanced life&#x2011;cycle costs and a lower cost of ownership.</Body>
+		</Content>
+		<Content>
+			<Title>Raw Power</Title>
+			<Body>Providing 4,777 maximum shaft horsepower, the T55&#x2011;L&#x2011;714A has proven its abilities with service in some of the world’s harshest conditions. With the upgraded T55&#x2011;L&#x2011;714A engine, the Chinook has 20% more payload capability at high/hot conditions with a 22% increase in engine power. These improvements have increased mission capability, allowing for higher mission readiness, reduced pilot workload, higher reliability and lower operating costs.</Body>
+		</Content>
+		<Content>
+			<Title>Efficient</Title>
+			<Body>The T55&#x2011;L&#x2011;714A Turboshaft engine delivers a 4% reduction in Specific Fuel Consumption (SFC), reducing costs and making it more efficient. With a higher lift capability thanks to increased power, an improved range from significantly lower SFC and increased payload the T55&#x2011;L&#x2011;714A allows the Chinook to cover greater distances without needing to refuel, enabling the range and effectiveness of missions to be increased.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>T55/T55_IMG_LANC_001.JPG</ThumbnailPath>
+		<VideoPath>VIDEOASSETS/T55_VID_PTP_001.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Video 1</Caption>
+			<VideoPath>VIDEOASSETS/T55 Engine - Discovery Channel.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="VideoAction">
+			<Caption>Video 2</Caption>
+			<VideoPath>VIDEOASSETS/T55 bullets.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>T55/T55_IMG_001.jpg</string>
+				<string>T55/T55_IMG_002.jpg</string>
+				<string>T55/T55_IMG_008.jpg</string>
+				<string>T55/T55_IMG_015.jpg</string>
+				<string>T55/T55_IMG_010.jpg</string>
+				<string>T55/T55_IMG_012.jpg</string>
+				<string>T55/T55_IMG_016.jpg</string>
+				<string>T55/T55_IMG_014.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>T55/T55 Image.png</string>
+				<string>T55/T55 Specs and characteristics.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

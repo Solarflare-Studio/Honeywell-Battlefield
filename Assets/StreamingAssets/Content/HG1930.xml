@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>HG1930</Id>
+	<Title>HG1930 Inertial Measurement Unit (IMU)</Title>
+  	<Subtitle>In service with a variety of platforms, including inceptor missiles, precision guided bombs, surface and land attack munitions, and land and underwater survey systems.</Subtitle>
+	<Description>The HG1930 Inertial Measurement Unit (IMU) is a high performance inertial sensor, enabling operations in the most demanding environments. It provides flight control and guidance across a range of applications, including missiles, munitions, projectiles and unmanned aerial vehicles (UAV). Its best in class gyroscope and accelerometer performance makes it extremely reliable and dependable, so the UAV, missile or other application is always where it is supposed to be. It also features a 20 year storage life, without requiring overhaul or repair.</Description>
+	<Content>
+		<Content>
+			<Title>High Performance</Title>
+			<Body>The HG1930 Inertial Measurement Unit (IMU) is a high performance flight control and guidance sensor for a range of applications, including missiles, munitions, projectiles and unmanned aerial vehicles (UAV). It is battle proven in some of the world’s most demanding environments, where its lightweight, fast and compact nature makes it reliable when handling tactical guidance operations.</Body>
+		</Content>
+		<Content>
+			<Title>Dependable</Title>
+			<Body>The HG1930 Inertial Measurement Unit (IMU) delivers improved dependability and reliability throughout its operational life. It has a 20 year storage life without requiring repair or overhaul, and its reliable flight control ensures that the unmanned aerial vehicle (UAV), or other application, consistently reaches its target.</Body>
+		</Content>
+		<Content>
+			<Title>Fast</Title>
+			<Body>The HG1930 Inertial Measurement Unit (IMU) is capable of a 350 msec start time, enabling faster target acquisition and response. It also features a best in class accelerometer performance and faster gyro start time, with a gyro rate scale factor of 300ppm, 1&#963;.</Body>
+		</Content>
+		<Content>
+			<Title>Pedigree</Title>
+			<Body>The HG1930 Inertial Measurement Unit (IMU) is designed with the war fighter in mind and has been proven in harsh operational environments. Whilst it is an extremely fast and reliable IMU, it maintains high performance with a power consumption of less than 3 watts.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/COMMON_VID_PTP_001.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Hear it from the veterans</Caption>
+			<VideoPath>VideoAssets/HG19_VID_001_TH_FULL_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="VideoAction">
+			<Caption>True Stories</Caption>
+			<VideoPath>VideoAssets/HG19_VID_001_TH_TS_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>HG1930/HG19_IMG_001.jpg</string>
+				<string>HG1930/HG19_IMG_002.jpg</string>
+				<string>HG1930/HG19_IMG_003.jpg</string>
+				<string>HG1930/HG19_IMG_004.jpg</string>
+				<string>HG1930/HG19_IMG_005.jpg</string>
+				<string>HG1930/HG19_IMG_006.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>HG1930/HG1930 Key Characteristics.png</string>
+				<string>HG1930/HG1930 Models and Performance.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>HMIAandVIPER</Id>
+	<Title>HMIA and VIPER</Title>
+  	<Subtitle>In service on the C&#x2011;130 and C&#x2011;17 Aircraft.</Subtitle>
+	<Description>HMIA &amp; Viper are flexible communication systems for the secure transfer of voice, video and data transmissions from C&#x2011;130 and C&#x2011;17 aircraft. They help missions to stay connected to the ground, enabling informed decision&#x2011;making on the battlefield.</Description>
+	<Content>
+		<Content>
+			<Title>Communicate</Title>
+			<Body>HMIA &amp; Viper are high bandwidth satellite communications systems capable of supporting data intensive C4ISR operations. They enable the transmission of voice, video and data communications on a global scale, ensuring that missions are connected and secure.</Body>
+		</Content>
+		<Content>
+			<Title>Flexible</Title>
+			<Body>HMIA &amp; Viper provide voice and data connections over the Inmarsat network. Viper is capable of being rolled on or off aircraft for flexible communications independent of pre&#x2011;installed equipment. It works with the Honeywell Hatch Mounted Inmarsat Antenna (HMIA), and is also compatible with all Inmarsat approved Aero&#x2011;H ARINC 741 antenna.</Body>
+		</Content>
+		<Content>
+			<Title>Secure</Title>
+			<Body>HMIA &amp; Viper enable secure global broadband communications on military aircraft anywhere in the world, enhancing connectivity and improving flexibility across the fleet. The Viper is optimized to work with both Swift 64 and SwiftBroadband services, whilst supporting simultaneous voice and STU&#x2011;III calls.</Body>
+		</Content>
+		<Content>
+			<Title>Stay Connected</Title>
+			<Body>HMIA &amp; Viper systems help missions to stay connected to the ground and other assets in the field. Each mission element is connected over a secure network to allow near real&#x2011;time voice, video and data transmission, enabling informed decision&#x2011;making on the battlefield.</Body>
+		</Content>
+		<Content>
+			<Title>GoDirect Cabin Services For Defense</Title>
+			<Body>Honeywell GoDirect Services has the satellite communications solutions to get your aircraft connected and mission overview within minutes. Honeywell’s satellite communications hardware and software upgrades deliver enhanced capabilities and unparalleled global coverage across a variety of network services time solutions. GoDirect Services working together for connected missions.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/COMMON_VID_PTP_001.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Hear it from the veterans</Caption>
+			<VideoPath>VideoAssets/ENFU_VID_001_TH_FULL_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="VideoAction">
+			<Caption>True Stories</Caption>
+			<VideoPath>VideoAssets/ENFU_VID_001_TH_TS_WIP.m4v</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>ENFU/ENFU_IMG_002.jpg</string>
+				<string>ENFU/ENFU_IMG_004.jpg</string>
+				<string>ENFU/ENFU_IMG_007.jpg</string>
+				<string>ENFU/ENFU_IMG_009.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>ENFU/C130_HMIA_Datasheet_Crop.jpg</string> 
+				<string>ENFU/C130_HMIA_Datasheet_HR_Page_2.jpg</string> 
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

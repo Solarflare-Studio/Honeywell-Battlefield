@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>TALINandAG1500</Id>
+	<Title>TALIN™ &amp; AGT1500</Title>
+  	<Subtitle>In service on the M1 Abrams tank and a variety of other combat vehicles.</Subtitle>
+	<Description>TALIN is a navigation system for the digital battlefield, providing accurate location and pointing information across a range of applications. In combat, its precision and accuracy delivers the first shot on target, improving efficiency by conserving the number of rounds required for a mission. TALIN is able to maintain accuracy regardless of terrain, can recognize GPS spoofing, and even works in the most remote GPS&#x2011;denied environments.</Description>
+	<Content>
+		<Content>
+			<Title>Flexible</Title>
+			<Body>TALIN offers the best value navigation system for the digital battlefield. It provides flexible tactical configurations for combat vehicles, main battle tanks, infantry fighting vehicles, mortar and artillery systems. It stabilizes weapon platforms for improved survivability and provides real&#x2011;time electronic position reporting in GPS&#x2011;denied environments. TALIN also features a pointing capability, providing accurate firepower when and where it is required, together with precision fire control for improved target acquisition.</Body>
+		</Content>
+		<Content>
+			<Title>Highly Accurate</Title>
+			<Body>TALIN provides continuous, self&#x2011;contained, Sub&#x2011;MIL azimuth accuracy and pointing information for enhanced situational awareness, far&#x2011;target location, target acquisition, weapons pointing and sensor pointing. It lets the war fighter know exactly where the enemy is, maximizing effectiveness and survivability.</Body>
+		</Content>
+		<Content>
+			<Title>Precise and Reliable</Title>
+			<Body>TALIN filters inaccurate data and can recognize GPS spoofing, meaning the war fighter can rely on the data it provides. Steering points can be loaded into the system to direct the user to their chosen location and keep them on track. It is also able to accept data input from other devices, such as laser range finders, muzzle velocity sensors and angle of sight encoders, for integrated operational efficiencies.</Body>
+		</Content>
+		<Content>
+			<Title>Customizable</Title>
+			<Body>TALIN allows for on&#x2011;the&#x2011;move alignment, with multiple accuracy configurations to meet different application requirements. Real&#x2011;time electronic position reporting enables the user to move quicker than the enemy, improving survivability while maintaining accuracy.</Body>
+		</Content>
+		<Content>
+			<Title>AGT1500</Title>
+			<Body>The AGT1500 gas turbine engine has been the force behind the Abrams M1 Main Battle Tank (MBT) mobility since the early 1980s. It provides the power, speed, quick acceleration and quiet operation which have earned the M1 such high marks across all military theatres. It has maneuvered more than 39 million operating miles, and demonstrated outstanding in&#x2011;service reliability through the enhancements introduced through the total integrated engine revitalization (TIGER) program.
+Its features include compact design, cold&#x2011;starting capabilities, instant power, multi&#x2011;fuel capabilities and stealthy operation. This engine is the world standard for tank durability and survivability.</Body>
+		</Content> 
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>TALINandAGT1500/TA26_IMG_LANC_001.JPG</ThumbnailPath>
+		<VideoPath>VideoAssets/TA26_VID_PTP_001.mp4</VideoPath>
+	</Video>  
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>AGT1500 Abrams Tank</Caption>
+			<VideoPath>VideoAssets/AGT1500 Abrams Tank.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>TALINandAGT1500/TA26_IMG_001.jpg</string>
+				<string>TALINandAGT1500/TA26_IMG_002.jpg</string>
+				<string>TALINandAGT1500/TA26_IMG_003.jpg</string>
+				<string>TALINandAGT1500/TA26_IMG_004.jpg</string>
+				<string>TALINandAGT1500/TA26_IMG_005.jpg</string>
+				<string>TALINandAGT1500/TA26_IMG_006.jpg</string>
+				<string>TALINandAGT1500/TA26_IMG_007.jpg</string>
+				<string>TALINandAGT1500/TA26_IMG_008.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths> 
+				<string>TALINandAGT1500/AGT1500.png</string>
+				<string>TALINandAGT1500/TALIN Characteristics.png</string>
+				<string>TALINandAGT1500/TALIN Configuration Options.png</string>
+				<string>TALINandAGT1500/TALIN Product Options.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions> 
+</Product>

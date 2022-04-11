@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>aTALIN</Id>
+	<Title>aTALIN™</Title>
+  	<Subtitle>In service on a range of artillery platforms including the L119 Howitzer</Subtitle>
+	<Description>aTALIN delivers precise, accurate and reliable navigation and pointing for rocket launchers, artillery and mortar platforms. Its robust data ensures the user can make informed decisions even in GPS denied environments around the world.</Description>
+	<Content>
+		<Content>
+			<Title>Pedigree</Title>
+			<Body>aTALIN is a weapon, antenna and platform stabilization system for extreme shock environments, providing precision fire&#x2011;control for on&#x2011;target operations. It’s highly reliable &#x2011; maximizing effectiveness and survivability. With over 15,000 TALIN units in service, it is battle&#x2011;proven all over the world.</Body>
+		</Content>
+		<Content>
+			<Title>Performance</Title>
+			<Body>aTALIN is small, robust and lightweight and maintains accuracy regardless of terrain and through extreme shock environments. Its data can be relied on anywhere in the world &#x2011; even in GPS&#x2011;denied environments. Real&#x2011;time electronic position reporting enables the war fighter to know where they are on the battlefield and improves digital situational awareness and survivability. aTALIN also accepts data input from other devices such as laser range finders, muzzle velocity sensors and angle of sight encoders for integrated operations.</Body>
+		</Content>
+		<Content>
+			<Title>Precision and Speed</Title>
+			<Body>aTALIN enables rapid response to enemy actions, accurate far&#x2011;target location determination and shoot and scoot capability for rapid fire and move operations. This is all underpinned by precise firing controls that hit the target with the first shot, reducing munitions expenditure and improving efficiency. It also filters inaccurate data and can recognise GPS spoofing.</Body>
+		</Content>
+		<Content>
+			<Title>Installation, Maintenance and Upgrades</Title>
+			<Body>aTALIN features a flexible design that streamlines installation, calibration and logistics compared to other available systems. It reduces maintenance by eliminating the need for external isolation mountings traditionally required in high shock platforms, and it can be mounted in any orientation without impacting on performance. Plug and play sensors make it easy to perform technology upgrades and platform missionization. Overall aTALIN reduces crew workload, has low lifecycle costs and is proven in battle worldwide.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>aTALIN/ATAL_IMG_LANC_001.JPG</ThumbnailPath>
+		<VideoPath>VideoAssets/ATAL_VID_PTP_001.mp4</VideoPath>
+	</Video>
+
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Hear it from the veterans</Caption>
+			<VideoPath>VideoAssets/ATAL_VID_001_TH.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image Gallery</Caption>
+			<ImagePaths>
+				<string>aTALIN/ATAL_IMG_002.jpg</string>
+				<string>aTALIN/ATAL_IMG_003.jpg</string>
+				<string>aTALIN/ATAL_IMG_004.jpg</string>
+				<string>aTALIN/ATAL_IMG_007.jpg</string>
+				<string>aTALIN/ATAL_IMG_008.jpg</string>
+				<string>aTALIN/ATAL_IMG_009.jpg</string>
+				<string>aTALIN/ATAL_IMG_011.jpg</string>
+				<string>aTALIN/ATAL_IMG_015.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>aTALIN/aTALIN System Characteristics.png</string>
+				<string>aTALIN/aTALIN System Specs.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

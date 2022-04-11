@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>LWNF</Id>
+	<Title>Light Weight North Finder</Title>
+  	<Subtitle>Precise gyrocompass&#x2011;based pointing in a small, light package.</Subtitle>
+	<Description>The Light Weight North Finder (LWNF) is a precise azimuth targeting solution for forward observers. Its lightweight and compact design makes it man&#x2011;portable, allowing for accurate, reliable and repeatable targeting in any environment. It features extremely dependable gyrocompass technology, enabling informed decision&#x2011;making on the battlefield.</Description>
+	<Content>
+		<Content>
+			<Title>Maintain Accuracy in Any Environment.</Title>
+			<Body>The Light Weight North Finder (LWNF) is a precise gyrocompass&#x2011;based pointing device. It features ring laser gyro (RLG) technology, which is immune to magnetic anomalies and radio frequency (RF) jamming, enabling the user to be confident in the data provided for accurate target acquisition. Its robust and compact design makes it man&#x2011;portable, allowing for accurate targeting in any environment.</Body>
+		</Content>
+		<Content>
+			<Title>Informed Decision Making.</Title>
+			<Body>The Light Weight North Finder (LWNF) provides accurate targeting in any location, even in concealed positions with no view of the sky. Its 1&#x2011;4 MIL accuracy makes it extremely reliable, enabling informed decision&#x2011;making and allowing the war fighter to share precise targeting information with other assets on the battlefield.</Body>
+		</Content>
+		<Content>
+			<Title>Accurate. Reliable. Repeatable.</Title>
+			<Body>The Light Weight North Finder (LWNF) utilizes a ring laser gyro (RLG) gyrocompass to eliminate large targeting errors inherent with current digital magnetic compass and GPS&#x2011;azimuth based technologies. And with a mean time between failures (MTBF) of 25,000 hours, the user can be confident that the LWNF will perform time and time again.</Body>
+		</Content>
+		<Content>
+			<Title>Compact.</Title>
+			<Body>The Light Weight North Finder (LWNF) is a small, man&#x2011;portable device for accurate targeting information. Its compact design and light packaging give it a weight of only 1.65 - 2.9lbs (0.75 - 1.3kg), with a power requirement of approximately 5 watts. </Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/COMMON_VID_PTP_001.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<VideoPath>VideoAssets/LWNF_VID_001_TH.mp4</VideoPath>
+			<Caption>Hear it from the veterans</Caption>
+		</Action>
+		<Action xsi:type="VideoAction">
+			<VideoPath>VideoAssets/LWNF_VID_001_TH_TS.mp4</VideoPath>
+			<Caption>True stories</Caption>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>LWNF/LWNF_IMG_001.jpg</string>
+				<string>LWNF/LWNF_IMG_002.jpg</string>
+				<string>LWNF/LWNF_IMG_003.jpg</string>
+				<string>LWNF/LWNF_IMG_004.jpg</string>
+				<string>LWNF/LWNF_IMG_005.jpg</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

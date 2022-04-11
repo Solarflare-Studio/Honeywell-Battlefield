@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMarker xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Marker>
+    <Id>0</Id>
+    <Name>L119 Howitzer</Name>
+    <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
+    <ProductPaths>
+      <string>aTALIN.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>1</Id>
+    <Name>Chinook</Name>
+    <BackgroundPath>Backgrounds/Clouds.png</BackgroundPath>
+    <ProductPaths>
+      <string>T55.xml</string>
+    </ProductPaths>
+    <PlatformContent>
+      <Title>Honeywell Technology Solutions for the CH&#x2011;47 Chinook</Title>
+      <Body>Honeywell offer a variety of technologies for the CH&#x2011;47 Chinook that help to improve safety, reliability and efficiency. Below is a list of some of the content we offer for the CH&#x2011;47 Chinook.
+• T55 Engine
+• APN&#x2011;209 Radar Altimeter/Antenna
+• H&#x2011;764 Embedded GPS/INS
+• Pitch/Trim Actuator
+• Lighting
+To find out more speak to one of our members of staff or search ‘Honeywell Aerospace’ online.
+      </Body>
+    </PlatformContent>
+  </Marker>
+  <Marker>
+    <Id>2</Id>
+    <Name>MLRS</Name>
+    <BackgroundPath>Backgrounds/Mountain_Range_Desert.png</BackgroundPath>
+    <ProductPaths>
+      <string>HG1700.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>3</Id>
+    <Name>Iron Dome</Name>
+    <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
+    <ProductPaths>
+      <string>HG1930.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>30</Id>
+    <Name>Soldier</Name>
+    <BackgroundPath>Backgrounds/Mud.png</BackgroundPath>
+    <ProductPaths>
+      <string>PENA.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>4</Id>
+    <Name>C-130</Name>
+    <BackgroundPath>Backgrounds/Runway.png</BackgroundPath>
+    <ProductPaths>
+      <string>ENFU.xml</string>
+    </ProductPaths>
+    <PlatformContent>
+      <Title>Honeywell Technology Solutions for the C&#x2011;130</Title>
+      <Body>Honeywell offer a variety of technologies for the C&#x2011;130 that help to improve safety, reliability and efficiency. Below is a list of some of the content we offer for the C&#x2011;130.
+• eNfusion® HMIA &amp; Viper
+• Flight Management System (FMS)
+• Digital Autopilot/Flight Director
+• Control Display Unit
+• H764G Embedded GPS/INS
+• HG&#x2011;9550 Radar Altimeter
+• MILACAS&#x2011;XR
+• Enhanced Ground Proximity Warning System (EGPWS)
+• Lighting (Exterior and Interior)
+• Environmental Control System
+• Auxiliary Power Unit
+• Nacelle Interface Unit
+• Cabin Pressure System
+To find out more speak to one of our members of staff or search ‘Honeywell Aerospace’ online.
+      </Body>
+    </PlatformContent>
+  </Marker>
+  <Marker>
+    <Id>5</Id>
+    <Name>Abrams</Name>
+    <BackgroundPath>Backgrounds/Tarmac.png</BackgroundPath>
+    <ProductPaths>
+      <string>TALINandAGT1500.xml</string>
+    </ProductPaths>
+    <PlatformContent>
+      <Title>Honeywell Technology Solutions for the Abrams Tank</Title>
+      <Body>Honeywell offer a variety of technologies for the Abrams tank that help to improve safety, reliability and efficiency. Below is a list of some of the content we offer for the Abrams tank.
+• TALIN™
+• AGT 1500 Main Engine
+• DECU Engine Controls
+• TALIN Navigation
+• NBC System
+• Generator
+• Generator Control Unit
+To find out more speak to one of our members of staff or search ‘Honeywell Aerospace’ online.
+      </Body>
+    </PlatformContent>
+  </Marker>
+  <Marker>
+    <Id>6</Id>
+    <Name>CV90</Name>
+    <BackgroundPath>Backgrounds/Woodland.png</BackgroundPath>
+    <ProductPaths>
+      <string>TALIN500.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>7</Id>
+    <Name>C&#x2011;17 Globemaster</Name>
+    <BackgroundPath>Backgrounds/Sky.png</BackgroundPath>
+    <ProductPaths>
+      <string>Jetwave.xml</string>
+    </ProductPaths>
+    <PlatformContent>
+      <Title>Honeywell Technology Solutions for the C&#x2011;17 Globemaster.</Title>
+      <Body>Honeywell offer a variety of technologies for the C&#x2011;17 Globemaster that help to improve safety, reliability and efficiency. Below is a list of some of the content we offer for the C&#x2011;17 Globemaster.
+• JetWave
+• Auxiliary Power Unit
+• Electronic Controls
+• Engine Start
+• Fuel Control
+• Landing Systems
+• Environmental Control Systems
+• H&#x2011;423 Inertial Navigation System
+• Air Data Computer
+• H&#x2011;764G Embedded GPS/INS
+• Multifunction Display System
+• Flight Management System Software
+To find out more speak to one of our members of staff or search ‘Honeywell Aerospace’ online.
+      </Body>
+    </PlatformContent>
+  </Marker>
+  <Marker>
+    <Id>8</Id>
+    <Name>GC-27</Name>
+    <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
+    <ProductPaths>
+      <string>GC-27.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>9</Id>
+    <Name>TALIN MINS</Name>
+    <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
+    <ProductPaths>
+      <string>TALIN_MINS.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>10</Id>
+    <Name>ATEC T900</Name>
+    <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
+    <ProductPaths>
+      <string>ATEC_T900.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>11</Id>
+    <Name>LHTEC CTS800</Name>
+    <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
+    <ProductPaths>
+      <string>LHTEC_CTS800.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>12</Id>
+    <Name>Aspire 200</Name>
+    <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
+    <ProductPaths>
+      <string>Aspire_200.xml</string>
+    </ProductPaths>
+  </Marker>
+  <Marker>
+    <Id>13</Id>
+    <Name>GoDirect</Name>
+    <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
+    <ProductPaths>
+      <string>GoDirect.xml</string>
+    </ProductPaths>
+  </Marker>
+</ArrayOfMarker>

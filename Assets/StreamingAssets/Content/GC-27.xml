@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>GC-27</Id>
+	<Title>GC&#x2011;27</Title>
+	<Subtitle>In service on battlefields</Subtitle>
+	<Description>GC&#x2011;27 is a high data rate antenna system that supports symmetric data transfers up to 45Mbps. It enables high bandwidth military voice, video and data communications, allowing soldiers in the field to communicate with airborne assets. Its robust casing, quick&#x2011;deploy tripod and light weight making it portable on the battlefield.</Description>
+	<Content>
+		<Content>
+			<Title>Secure Communication</Title>
+			<Body>GC&#x2011;27 is a high data rate antenna for secure mobile communications between land and air forces. It is a man&#x2011;portable Tactical Common Data Link (TCDL) terminal, designed to support high bandwidth military voice, video and data communications. This multi&#x2011;function common data link antenna system enables real&#x2011;time communication with an airborne data terminal while being deployed in a variety of battle situations.</Body>
+		</Content>
+		<Content>
+			<Title>Made to Move</Title>
+			<Body>GC&#x2011;27 is easily transportable and simple to set up. It comes with an integrated rugged transit case and radome to protect the directional antenna and other electronics. It also features a quick&#x2011;deploy adjustable tripod to support the entire system on uneven terrain, enabling secure communications between soldiers in the field and supporting air forces.</Body>
+		</Content>
+		<Content>
+			<Title>High Speed Connection</Title>
+			<Body>GC&#x2011;27 is designed to support tactical military communications by enabling symmetric data transfers up to 45Mbps to an airborne data terminal. The high rate antennas (HRA) provide the war fighter with connectivity at an operational level and in theaters of operation, while the omnidirectional antennas provide close&#x2011;range communications and acquisition.</Body>
+		</Content>
+		<Content>
+			<Title>Accurate Location</Title>
+			<Body>GC&#x2011;27 features a differential GPS system, providing accurate location and heading information without lengthy setup times.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/COMMON_VID_PTP_001.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Hear it from the veterans</Caption>
+			<VideoPath>VideoAssets/GC27_VID_001_TH_FULL_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="VideoAction">
+			<Caption>True Stories</Caption>
+			<VideoPath>VideoAssets/GC27_VID_001_TH_TS_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>GC-27/GC27_IMG_001.jpg</string>
+				<string>GC-27/GC27_IMG_002.jpg</string>
+				<string>GC-27/GC27_IMG_003.jpg</string>
+				<string>GC-27/GC27_IMG_004.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>GC-27/GC27 System Specifications.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

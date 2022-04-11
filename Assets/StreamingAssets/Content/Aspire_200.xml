@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>Aspire</Id>
+	<Title>Aspire® 200</Title>
+  	<Subtitle>Installed on several rotorcraft airframes, including AW139.</Subtitle>
+	<Description>The Aspire 200 Satellite Communications System is Honeywell's smallest Inmarsat SwiftBroadband system enabling simultaneous voice and data connectivity at rates up to 600 kbps on all classes of aircraft. Aspire 200, combined with Honeywell's High-Data Rate (HDR) software package, mitigates the impacts of the rotorblades on the satellite signal to bring high-speed connectivity to the helicopter environment for the first time! Approved for AW139, AS350, UH-60 Black Hawk and Bell 429, with more airframes in the pipeline.</Description>
+	<Content>
+		<Content>
+			<Title>Stay Connected</Title>
+			<Body>Helicopter missions require constant connectivity for passengers and crew, both voice and data. When you’re beyond line of sight or beyond VHF coverage area, you need dependable, reliable high-speed data connectivity. In challenging environments, low latency voice, real-time data transfer and aircraft tracking empower pilots to complete their missions successfully and safely.</Body>
+		</Content>
+		<Content>
+			<Title>Global Network</Title>
+			<Body>The Aspire 200 satellite communications system offers a broad range of connectivity options to suit a wide variety of requirements. These systems operate on the Inmarsat I-4 satellite network, which has worldwide coverage. Connect with GoDirect Defense service time packages that can be customized for your mission requirements.</Body>
+		</Content>
+		<Content>
+			<Title>Key Benefits</Title>
+			<Body>Simultaneous voice and data connectivity
+• Compact system with 200-650kbps per channel
+• Configurable with any Honeywell L-band antenna
+• Software upgradeable for Inmarsat HDR (650kbps)
+• Small, lightweight system
+• Interleaver waveform delivers error-free high-speed worldwide connectivity
+• Ruggedized for helicopter
+• Antenna Option: Data Speeds With HDR
+• Intermediate-Gain Antenna (IGA): 332 kbps to ~450 kbps
+• High-Gain Antenna (HGA): 432 kbps to up to ~600 kbps</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/Satellite Communications for Helicopters.mp4</VideoPath>
+	</Video>
+
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Video</Caption>
+			<VideoPath>VideoAssets/AUSA Aspire 200 v04.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image Gallery</Caption>
+			<ImagePaths>
+				<string>Aspire200/aw139_ae.jpg</string>
+				<string>Aspire200/Aspire Image.png</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>Aspire200/Aspire 200 Standard System Bundles.png</string>
+				<string>Aspire200/Aspire 200 Standard Components.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>TALIN_MINS</Id>
+	<Title>TALIN™ MINS</Title>
+	<Subtitle>Developed specifically for the unique requirements of the naval market</Subtitle>
+	<Description>The TALIN Marine Inertial Navigation System (MINS) provides data on heading, pitch and roll, angular velocity and heave, combining the capabilities of an INS and an attitude heading and reference system (AHRS) in a single solution.</Description>
+	<Content>
+		<Content>
+			<Title>Pedigree</Title>
+			<Body>TALIN MINS is built with Honeywell’s industry leading, high&#x2011;accuracy ring laser gyros and accelerometers for unparalleled performance. With over 15,000 TALIN systems deployed by land, air and sea, Honeywell’s inertial systems represent a proven, battle&#x2011;tested solution.</Body>
+		</Content>
+		<Content>
+			<Title>Versatile and reliable</Title>
+			<Body>The TALIN MINS is easily installed and can be hard mounted inany orientation, providing superior accuracy and reliability with Mean Time Between Failure (MTBF) > 50,000 hours.
+Smaller, lighter and more reliable than other leading solutions.
+Meets requirements for both navigation and weapons stabilization.</Body>
+		</Content>
+		<Content>
+			<Title>Configurable</Title>
+			<Body>Performance levels are configurable to meet a range of price and capability requirements. From the high value TALIN MINS 2000 to the exceptionally accurate TALIN MINS 6000 we offer the right combination of price and performance for your application.</Body>
+		</Content>
+		<Content>
+			<Title>Technical specifications</Title>
+			<Body>Dimensions (excluding flanges &amp; connectors)
+• Approx. 5.4 H x 7.6 W x 8.6 L inches
+• Approx. 14 H x 19 W x 22 L cm
+Power supply: &lt; 30 watts DC
+Weight: &lt; 13 pounds (&lt;6kg)</Body>
+		</Content>
+		<Content>
+			<Title>Environment</Title>
+			<Body>Sealed and hardened against humidity, salt fog, sand, dust, solar radiation.
+Can be washed down with a fire hose and can continue to function.</Body>
+		</Content>
+		<Content>
+			<Title>Interface</Title>
+			<Body>Standard: 1553A&amp;B/RS_422/RS_232 serial host interface
+Optional: Additional RS_422/RS_232 data interface, turret encoder and laser range finder</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/COMMON_VID_PTP_001.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>TALIN_MINS/shutterstock_289004345.jpg</string>
+				<string>TALIN_MINS/TALIN MINS.jpg</string>
+			</ImagePaths>
+		</Action>
+    <Action xsi:type="TechSpecsAction">
+      <Caption>TechSpecs Gallery</Caption>
+      <ImagePaths>
+        <string>TALIN_MINS/TALIN MINS Performance.png</string>
+        <string>TALIN_MINS/TALIN MINS Tech Specifications.png</string>
+      </ImagePaths>
+    </Action>
+  </Actions>
+</Product>

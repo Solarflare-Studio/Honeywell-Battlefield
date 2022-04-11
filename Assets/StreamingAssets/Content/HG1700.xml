@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>HG1700</Id>
+	<Title>HG1700 Inertial Measurement Unit (IMU)</Title>
+	<Subtitle>In service with a variety of platforms, including inceptor missiles, precision guided bombs, surface and land attack munitions, and land and underwater survey systems.</Subtitle>
+	<Description>The HG1700 Inertial Measurement Unit (IMU) is a compact avionics guidance system for accurate navigation on the battlefield. It is in service across a wide range of platforms, including inceptor missiles, precision guided bombs, surface and land attack munitions, and land and underwater survey systems. It is the lowest cost IMU in its performance category, and provides extremely reliable and accurate navigation in the world’s most remote GPS&#x2011;denied environments.</Description>
+	<Content>
+		<Content>
+			<Title>Compact</Title>
+			<Body>The HG1700 Inertial Measurement Unit (IMU) is a low&#x2011;cost, lightweight avionics guidance system for missiles, standoff weapons and unmanned aerial vehicles. It utilizes lightweight, low&#x2011;cost materials to create a compact design that is extremely cost effective, yet maintains high accuracy and reliability on the battlefield.</Body>
+		</Content>
+		<Content>
+			<Title>Reliably Accurate</Title>
+			<Body>The HG1700 Inertial Measurement Unit (IMU) features incredibly reliable technology so that, once location data has been entered, the war fighter can be sure that the missile or munition will hit the specified target. Even in GPS&#x2011;denied environments, the IMU will guide the missile or munition according to the desired trajectory and hit the target.</Body>
+		</Content>
+		<Content>
+			<Title>Less is More</Title>
+			<Body>The HG1700 Inertial Measurement Unit (IMU) utilizes lightweight, low&#x2011;cost materials, ideal for high volume production. Its small size and reduced assembly cost make it the lowest cost IMU in its performance category.</Body>
+		</Content>
+		<Content>
+			<Title>Pedigree</Title>
+			<Body>The HG1700 Inertial Measurement Unit (IMU) is based on mature, reliable Honeywell technology. We have produced and delivered 300,000 products of this kind since 1997, and it is battle&#x2011;proven over 20 years. This makes it an extremely reliable, accurate, high&#x2011;quality product, at a great price.</Body>
+		</Content>
+		<Content>
+			<Title>HG1700 Enhanced</Title>
+			<Body>The industry standard just got better. The HG1700 Inertial Measurement Unit (IMU) Enhanced features improved navigational accuracy from gyro angular random walk, and supports all three RS&#x2011;422 communications protocols &#x2011; Gated Clock, Synchronous Data Link Control (SDLC) and Asynchronous. It now has an optional smaller footprint thanks to a reduction in height, making installation more flexible.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/COMMON_VID_PTP_001.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="VideoAction">
+			<Caption>Hear it from the veterans</Caption>
+			<VideoPath>VideoAssets/HG17_VID_001_TH_FULL_WIP.mp4</VideoPath>
+		</Action>
+		<Action xsi:type="VideoAction">
+			<Caption>True Stories</Caption>
+			<VideoPath>VideoAssets/HG17_VID_002_TH_TS_WIP.m4v</VideoPath>
+		</Action>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image gallery</Caption>
+			<ImagePaths>
+				<string>HG1700/HG17_IMG_001.jpg</string>
+				<string>HG1700/HG17_IMG_002.jpg</string>
+				<string>HG1700/HG17_IMG_003.jpg</string>
+				<string>HG1700/HG17_IMG_004.jpg</string>
+				<string>HG1700/HG17_IMG_005.jpg</string>
+				<string>HG1700/HG17_IMG_006.jpg</string>
+				<string>HG1700/HG17_IMG_007.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>HG1700/HG1700 Key Characteristics.png</string>
+				<string>HG1700/HG1700 Performance.png</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>

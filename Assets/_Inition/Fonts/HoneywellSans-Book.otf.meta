@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 55aec44a03ca9f24fbd0c28e401d7434
+timeCreated: 1498055272
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Honeywell Sans
+  fontNames:
+  - Honeywell Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
