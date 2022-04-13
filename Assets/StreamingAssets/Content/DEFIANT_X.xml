@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>DEFIANT-X</Id>
+	<Title>DEFIANT X®</Title>
+  	<Subtitle>Future Long-Range Assault Aircraft (FLRAA).</Subtitle>
+	<Description>The DEFIANT X® helicopter is the Lockheed Martin Sikorsky-Boeing entry in the U.S. Army’s Future Long-Range Assault Aircraft (FLRAA) competition. The next-generation aircraft is planned to be the fastest, most maneuverable assault helicopter ever built.</Description>
+	<Content>
+		<Content>
+			<Title>HTS7500 ENGINE</Title>
+			<Body>The DEFIANT X® will fly with an advanced turboshaft engine every bit as powerful, rugged and reliable as the aircraft itself. Our HTS7500 is the latest in a long line of Honeywell engines like the legendary T55, which has been powering CH-47 Chinook and MH-47 helicopters for the better part of seven decades. The HTS7500 is the next generation in Honeywell’s line of military turboshaft engines that will provide more than just an incremental change, but rather provides a giant step forward in power, performance and reliability. The HTS7500 is 42% more powerful than the latest version of the T55. It’s also more compact and efficient, offering the lowest total weight compared to other engines in its horsepower class and an 18% reduction in specific fuel consumption. That means the HTS7500 can fly farther, faster with a higher power-to-weight ratio than any comparable engine. This makes it the perfect choice for the DEFIANT X® and the U.S. Army to provide America’s aviation warfighters with the capabilities they need to succeed, regardless of the mission.</Body>
+		</Content>
+		<Content>
+			<Title>AUXILIARY POWER UNIT</Title>
+			<Body>Honeywell’s APU for the DEFIANT X® is a derivative of the existing, and highly successful GTCP 36-150 APU series. This new version is equipped with the latest compressor technology that was originally developed for the commercial aircraft sector. The APU was customized to meet the aircraft installation and performance objectives of the U.S. Army. The 36-150 APU series operating today delivers compressed air for main engine starting air conditioning, anti-ice, and heating systems. They are also capable of delivering air and shaft power simultaneously or individually. More than 20 proven variations modified for military and commercial aircraft are flying today.</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/Battlefield Table DefiantX Video.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image Gallery</Caption>
+			<ImagePaths>
+				<string>DEFIANT-X/2021_FormationLanding_ret.jpg</string>
+				<string>DEFIANT-X/DEFIANT X - Image #2.jpg</string>
+				<string>DEFIANT-X/DEFIANT X_flight PUBLIC.jpg</string>
+				<string>DEFIANT-X/DSC_0202.jpg</string>
+				<string>DEFIANT-X/FVL_Ad_2021_SoldierPickup_ret.jpg</string>
+				<string>DEFIANT-X/HoneywellBranded.35.png</string>
+				<string>DEFIANT-X/HoneywellBranded.39.png</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>DEFIANT-X/HTS7500-1.jpg</string>
+				<string>DEFIANT-X/HTS7500-2.jpg</string>
+				<string>DEFIANT-X/HTS7500-3.jpg</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>
