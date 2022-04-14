@@ -2,7 +2,7 @@
 <Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Id>ATEC</Id>
 	<Title>T900 Engine</Title>
-  	<Subtitle>Advanced turboshaft helicopter engine.</Subtitle>
+	<Subtitle>Advanced turboshaft helicopter engine.</Subtitle>
 	<Description>Honeywell and Pratt &amp; Whitney joined together to develop a dual&#x2011;spool engine, which uses computers to distribute load between the two compressors, and con¬stantly adjusts the load borne by each to optimize performance. This allows the engine to run cooler, reducing wear and tear. In sandy conditions, for example, the rear compressor can turn faster allowing the front compressor to turn more slowly, improving performance and allowing the front compressor to take less of a beating from sand ingestion.</Description>
 	<Content>
 		<Content>
@@ -20,13 +20,13 @@
 		<Content>
 			<Title>Key Features</Title>
 			<Body>60% more shaft horsepower
-50% more powerful 
-30% fewer mission aborts 
-25% more fuel efficient
-25% more growth capabilities
-20% increase in engine life 
-20% less operation and support costs 
-While also meeting stringent performance goals in high and hot conditions at 6,000 feet and 95 degrees</Body>
+				50% more powerful
+				30% fewer mission aborts
+				25% more fuel efficient
+				25% more growth capabilities
+				20% increase in engine life
+				20% less operation and support costs
+				While also meeting stringent performance goals in high and hot conditions at 6,000 feet and 95 degrees</Body>
 		</Content>
 	</Content>
 	<Video>

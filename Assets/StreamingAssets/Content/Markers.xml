@@ -151,10 +151,10 @@ To find out more speak to one of our members of staff or search ‘Honeywell Aer
   </Marker>
   <Marker>
     <Id>10</Id>
-    <Name>ATEC T900</Name>
+    <Name>DEFIANT X</Name>
     <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
     <ProductPaths>
-      <string>ATEC_T900.xml</string>
+      <string>DEFIANT_X.xml</string>
     </ProductPaths>
   </Marker>
   <Marker>
