@@ -431,7 +431,7 @@ MonoBehaviour:
   m_events:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: RenderHeads.Media.AVProVideo.MediaPlayerEvent, Assembly-CSharp, Version=1.0.8139.30539,
+    m_TypeName: RenderHeads.Media.AVProVideo.MediaPlayerEvent, Assembly-CSharp, Version=1.0.8144.18783,
       Culture=neutral, PublicKeyToken=null
   _optionsWindows:
     overridePath: 0
@@ -5117,7 +5117,7 @@ MonoBehaviour:
   m_events:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: RenderHeads.Media.AVProVideo.MediaPlayerEvent, Assembly-CSharp, Version=1.0.8139.30539,
+    m_TypeName: RenderHeads.Media.AVProVideo.MediaPlayerEvent, Assembly-CSharp, Version=1.0.8144.18783,
       Culture=neutral, PublicKeyToken=null
   _optionsWindows:
     overridePath: 0

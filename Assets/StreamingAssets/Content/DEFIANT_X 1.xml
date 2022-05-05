@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Id>CONTENT_ID</Id>
+	<Title>xxx</Title>
+	<Subtitle>xxx</Subtitle>
+	<Description>xxx</Description>
+	<Content>
+		<Content>
+			<Title>xxx</Title>
+			<Body>xxx</Body>
+		</Content>
+		<Content>
+			<Title>xxx</Title>
+			<Body>xxx</Body>
+		</Content>
+		<Content>
+			<Title>xxx</Title>
+			<Body>xxx</Body>
+		</Content>
+		<Content>
+			<Title>xxx</Title>
+			<Body>xxx</Body>
+		</Content>
+		<Content>
+			<Title>xxx</Title>
+			<Body>xxx</Body>
+		</Content>
+	</Content>
+	<Video>
+		<Title>Launch video</Title>
+		<ThumbnailPath>Common/COM_IMG_LANC_VID.jpg</ThumbnailPath>
+		<VideoPath>VideoAssets/xxx.mp4</VideoPath>
+	</Video>
+	<Actions>
+		<Action xsi:type="GalleryAction">
+			<Caption>Image Gallery</Caption>
+			<ImagePaths>
+				<string>xxx/xxx.jpg</string>
+				<string>xxx/xxx.jpg</string>
+				<string>xxx/xxx.jpg</string>
+				<string>xxx/xxx.jpg</string>
+			</ImagePaths>
+		</Action>
+		<Action xsi:type="TechSpecsAction">
+			<Caption>TechSpecs Gallery</Caption>
+			<ImagePaths>
+				<string>xxx/xxx.jpg</string>
+				<string>xxx/xxx.jpg</string>
+				<string>xxx/xxx.jpg</string>
+			</ImagePaths>
+		</Action>
+	</Actions>
+</Product>
