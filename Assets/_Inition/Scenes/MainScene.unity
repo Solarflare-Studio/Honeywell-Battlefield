@@ -431,7 +431,7 @@ MonoBehaviour:
   m_events:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: RenderHeads.Media.AVProVideo.MediaPlayerEvent, Assembly-CSharp, Version=1.0.8144.18783,
+    m_TypeName: RenderHeads.Media.AVProVideo.MediaPlayerEvent, Assembly-CSharp, Version=1.0.8508.36367,
       Culture=neutral, PublicKeyToken=null
   _optionsWindows:
     overridePath: 0
@@ -727,7 +727,6 @@ RectTransform:
   - {fileID: 1000775373}
   - {fileID: 1659761747}
   - {fileID: 1062435133}
-  - {fileID: 409218292}
   - {fileID: 1075666519}
   - {fileID: 490421687}
   - {fileID: 1186554260}
@@ -1337,63 +1336,6 @@ MonoBehaviour:
   cameraDistance: 0
   markerNumber: 6
   applyRotation: 1
---- !u!1 &409218291
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 1663800312983974, guid: bb301ba33f4244245a6f59a07308d0ca,
-    type: 3}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 409218292}
-  - component: {fileID: 409218293}
-  m_Layer: 5
-  m_Name: DEFIANT-X
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &409218292
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 224735916668458876, guid: bb301ba33f4244245a6f59a07308d0ca,
-    type: 3}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 409218291}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.99999, y: 0.99999, z: 0.99999}
-  m_Children: []
-  m_Father: {fileID: 315372209}
-  m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 960, y: 540}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &409218293
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114208068436837400, guid: bb301ba33f4244245a6f59a07308d0ca,
-    type: 3}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 409218291}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 26f6514b527993b4baeca667786c4500, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  markerTag: TUIO, Object, DEFIANT-X
-  timeout: 0.5
-  color: {r: 0, g: 0, b: 0, a: 0}
-  cameraDistance: 0
-  markerNumber: 10
-  applyRotation: 1
 --- !u!1 &413319616
 GameObject:
   m_ObjectHideFlags: 0
@@ -1553,7 +1495,7 @@ RectTransform:
   m_LocalScale: {x: 0.99999, y: 0.99999, z: 0.99999}
   m_Children: []
   m_Father: {fileID: 315372209}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2178,7 +2120,7 @@ RectTransform:
   m_LocalScale: {x: 0.99999, y: 0.99999, z: 0.99999}
   m_Children: []
   m_Father: {fileID: 315372209}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3393,7 +3335,7 @@ RectTransform:
   m_LocalScale: {x: 0.99999, y: 0.99999, z: 0.99999}
   m_Children: []
   m_Father: {fileID: 315372209}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3527,7 +3469,7 @@ RectTransform:
   m_LocalScale: {x: 0.99999, y: 0.99999, z: 0.99999}
   m_Children: []
   m_Father: {fileID: 315372209}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5117,7 +5059,7 @@ MonoBehaviour:
   m_events:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: RenderHeads.Media.AVProVideo.MediaPlayerEvent, Assembly-CSharp, Version=1.0.8144.18783,
+    m_TypeName: RenderHeads.Media.AVProVideo.MediaPlayerEvent, Assembly-CSharp, Version=1.0.8508.36367,
       Culture=neutral, PublicKeyToken=null
   _optionsWindows:
     overridePath: 0
@@ -5695,7 +5637,7 @@ PrefabInstance:
     - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
         type: 3}
       propertyPath: tuioObjectMappings.Array.size
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
         type: 3}
@@ -5825,32 +5767,32 @@ PrefabInstance:
     - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
         type: 3}
       propertyPath: tuioObjectMappings.Array.data[12].Id
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
-        type: 3}
-      propertyPath: tuioObjectMappings.Array.data[12].Tag
-      value: DEFIANT-X
-      objectReference: {fileID: 0}
-    - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
-        type: 3}
-      propertyPath: tuioObjectMappings.Array.data[13].Id
       value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
         type: 3}
-      propertyPath: tuioObjectMappings.Array.data[13].Tag
+      propertyPath: tuioObjectMappings.Array.data[12].Tag
       value: LHTEC
       objectReference: {fileID: 0}
     - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
         type: 3}
-      propertyPath: tuioObjectMappings.Array.data[14].Id
+      propertyPath: tuioObjectMappings.Array.data[13].Id
       value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
         type: 3}
-      propertyPath: tuioObjectMappings.Array.data[14].Tag
+      propertyPath: tuioObjectMappings.Array.data[13].Tag
       value: Aspire
+      objectReference: {fileID: 0}
+    - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
+        type: 3}
+      propertyPath: tuioObjectMappings.Array.data[14].Id
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
+        type: 3}
+      propertyPath: tuioObjectMappings.Array.data[14].Tag
+      value: GoDirect
       objectReference: {fileID: 0}
     - target: {fileID: 114952712414144976, guid: 19b79a2ae83e6c44aa52f2c89cc4ec45,
         type: 3}

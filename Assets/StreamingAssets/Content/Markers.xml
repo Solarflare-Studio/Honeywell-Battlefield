@@ -150,14 +150,6 @@ To find out more speak to one of our members of staff or search ‘Honeywell Aer
     </ProductPaths>
   </Marker>
   <Marker>
-    <Id>10</Id>
-    <Name>DEFIANT X</Name>
-    <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
-    <ProductPaths>
-      <string>DEFIANT_X.xml</string>
-    </ProductPaths>
-  </Marker>
-  <Marker>
     <Id>11</Id>
     <Name>LHTEC CTS800</Name>
     <BackgroundPath>Backgrounds/Desert.png</BackgroundPath>
