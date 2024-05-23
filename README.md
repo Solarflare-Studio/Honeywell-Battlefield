@@ -224,11 +224,10 @@ See the [open issues](https://github.com/Solarflare-Studio/Honeywell-Battlefield
 <!-- CONTACT -->
 ## Contact
 
-1. Tommy Webb (Work) - tommy@solarflarestudio.co.uk
-2. Tommy Webb (Personal) - tommygeorgewebb@googlemail.com
+1. John Martinelli - john@solarflarestudio.co.uk
 3. Solarflare Studio - techadmin@solarflarestudio.co.uk
 
-Project Link: [https://github.com/Solarflare-Studio/MOL-ChildrensActivation](https://github.com/Solarflare-Studio/Honeywell-Battlefield)
+Project Link: (https://github.com/Solarflare-Studio/Honeywell-Battlefield)
 
 [product-screenshot]: https://i.imgur.com/dBBBZPK.png
 
